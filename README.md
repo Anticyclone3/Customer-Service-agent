@@ -43,7 +43,8 @@ Note: This project focuses on AI integration and product thinking, not backend d
 
 <img width="1406" height="872" alt="image" src="https://github.com/user-attachments/assets/5e5a9ec3-0e43-4b30-94f7-c9ca7c61fb67" />
 
-![Uploading image.png…]()
+<img width="1406" height="877" alt="image" src="https://github.com/user-attachments/assets/85f1f51c-b89a-4106-8b5f-d35a6518543c" />
+
 
 
 🎯 Use Case
